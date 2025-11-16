@@ -1,0 +1,21 @@
+{
+  "brandName": "",
+  "tagline": "",
+  "primaryColours": [],
+  "secondaryColours": [],
+  "logoDescription": "",
+  "toneOfVoice": {
+    "formality": "neutral",
+    "keywords": [],
+    "examples": []
+  },
+  "writingPreferences": {
+    "sentenceLength": "mixed",
+    "useOfBullets": "moderate",
+    "prefersStorytelling": false
+  },
+  "visualStyle": {
+    "layout": "auto",
+    "notes": ""
+  }
+}

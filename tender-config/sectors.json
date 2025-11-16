@@ -1,0 +1,22 @@
+[
+  {
+    "id": "security",
+    "name": "Security Services",
+    "keywords": ["guarding", "access control", "patrols", "CCTV", "control room", "PSIRA"]
+  },
+  {
+    "id": "cleaning",
+    "name": "Cleaning Services",
+    "keywords": ["hygiene", "deep cleaning", "disinfection", "waste management"]
+  },
+  {
+    "id": "construction",
+    "name": "Construction and Maintenance",
+    "keywords": ["CIDB", "civil works", "building", "maintenance"]
+  },
+  {
+    "id": "it",
+    "name": "IT and Software",
+    "keywords": ["software", "network", "support", "SLA", "cybersecurity"]
+  }
+]

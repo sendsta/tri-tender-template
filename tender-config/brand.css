@@ -1,0 +1,52 @@
+/*
+ * This CSS file is intended to be generated or updated by the AI per project.
+ * It defines CSS custom properties for primary, secondary and accent colours
+ * along with base styling rules.  The AI should override these variables
+ * based on the company's brand colours and adjust other rules as needed.
+ */
+
+:root {
+  --primary-color: #004b8d;
+  --secondary-color: #f2f4f8;
+  --accent-color: #e5a00d;
+  --text-color: #1a1a1a;
+}
+
+/* Apply the brand colours to the body and headings when the brand-theme class
+ * is present on the <body> element. */
+.brand-theme {
+  font-family: sans-serif;
+  color: var(--text-color);
+  background-color: var(--secondary-color);
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.brand-theme h1,
+.brand-theme h2,
+.brand-theme h3,
+.brand-theme h4 {
+  color: var(--primary-color);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.brand-theme table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+
+.brand-theme th,
+.brand-theme td {
+  border: 1px solid var(--primary-color);
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.placeholder {
+  color: #999999;
+  font-style: italic;
+}
