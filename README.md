@@ -59,12 +59,7 @@ tri-tender-nextjs-template/
 │  ├─ sample_company_profile.txt
 │  └─ sample_tender_document.txt
 ├─ tender-output/
-│  ├─ 01_cover_letter.html
-│  ├─ 02_company_profile.html
-│  ├─ 03_methodology_and_scope.html
-│  ├─ 04_pricing_schedule.html
-│  ├─ 05_compliance_checklist.html
-│  └─ 99_appendices.html
+│  
 └─ src/
    └─ app/
       ├─ layout.tsx
